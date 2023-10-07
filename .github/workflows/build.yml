@@ -16,7 +16,7 @@ on:
       build-artifacts:
         type: boolean
         required: true
-        default: false
+        default: true
 
 jobs:
   build:
